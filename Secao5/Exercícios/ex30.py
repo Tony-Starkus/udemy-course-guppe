@@ -1,0 +1,6 @@
+lista = list()
+lista.append(float(input("Digite o primeiro número: ")))
+lista.append(float(input("Digite o segundo número: ")))
+lista.append(float(input("Digite o terceiro número: ")))
+lista.sort()
+print(lista)

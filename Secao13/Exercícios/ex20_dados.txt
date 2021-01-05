@@ -1,0 +1,15 @@
+NOME: Morris Braxton                           NOTA: 8
+NOME: William Collins                          NOTA: 3
+NOME: Robert Ackerman                          NOTA: 1
+NOME: Tony Mendez                              NOTA: 5
+NOME: Gregory Fowler                           NOTA: 9
+NOME: Lidia Ellis                              NOTA: 9
+NOME: Christopher Gomez                        NOTA: 2
+NOME: Kevin Held                               NOTA: 4
+NOME: Tammy Weese                              NOTA: 7
+NOME: Winston Wilborn                          NOTA: 10
+NOME: Florence Haynes                          NOTA: 1
+NOME: Albert Jackson                           NOTA: 4
+NOME: Reginald Southard                        NOTA: 5
+NOME: Reynaldo Hamilton                        NOTA: 6
+NOME: Veronica Babineaux                       NOTA: 2

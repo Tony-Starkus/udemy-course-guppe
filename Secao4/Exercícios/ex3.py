@@ -1,0 +1,5 @@
+print("Digite 3 valores inteiros:")
+v1 = int(input("v1: "))
+v2 = int(input("v2: "))
+v3 = int(input("v3: "))
+print(f"A soma dos 3 valores é: {v1 + v2 + v3}")

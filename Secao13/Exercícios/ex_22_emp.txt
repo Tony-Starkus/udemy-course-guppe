@@ -1,0 +1,5 @@
+Médico,10
+Enfermeiro,20
+Cozinheiro,1
+Fisioterapeuta,4
+Médica,4

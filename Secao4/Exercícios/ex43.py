@@ -1,0 +1,6 @@
+valor = float(input("Digite o valor: "))
+valor_final = valor - ((valor * 10) / 100)
+print(f"Total a pagar com 10% de desconto: {valor_final}")
+print(f"Valor de cada parcela, 3x sem juros: {valor_final / 3}")
+print(f"Comissão do vendedor em caso de venda vista (5% do valor com desconto): {(valor_final * 5) / 100}")
+print(f"Comissão do vendedor em caso da venda parcelada (5% do valor total): {(valor * 5) / 100}")

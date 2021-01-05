@@ -1,0 +1,5 @@
+num1 = int(input("Digite o primeiro valor: "))
+num2 = int(input("Digite o segundo valor: "))
+maior = max(num1, num2)
+print(f"O maior número é: {maior}")
+print(f"A diferença entre eles é: {maior - min(num1, num2)}")

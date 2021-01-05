@@ -1,0 +1,10 @@
+Cidade 0: 31725
+Cidade 1: 52198
+Cidade 2: 10822
+Cidade 3: 31938
+Cidade 4: 82508
+Cidade 5: 213
+Cidade 6: 81082
+Cidade 7: 4732
+Cidade 8: 39040
+Cidade 9: 87946
