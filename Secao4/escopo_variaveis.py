@@ -37,7 +37,7 @@ print(type(numero))
 numero = 42
 
 if numero > 10:
-    novo = numero + 10 # A variável 'novo' está declarada localmente dentro do boloc do if. Portanto, é local.
+    novo = numero + 10  # A variável 'novo' está declarada localmente dentro do boloc do if. Portanto, é local.
     print(novo)
 
 print(novo)

@@ -2,467 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be927035-4446-4ca1-a794-7b14d3762086" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao11/try_except_else_finally.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao12/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao12/dunder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao12/funcoes_com_parametro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao12/modulo_random.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao12/modulos_builtin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao12/modulos_customizados.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao12/modulos_externos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao12/pacotes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao13/Exercícios/ex1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao13/Exercícios/ex10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao13/Exercícios/ex11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao13/Exercícios/ex12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao13/Exercícios/ex13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao13/Exercícios/ex14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao13/Exercícios/ex15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao13/Exercícios/ex16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao13/Exercícios/ex17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao13/Exercícios/ex18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao13/Exercícios/ex19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao13/Exercícios/ex2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao13/Exercícios/ex20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao13/Exercícios/ex21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao13/Exercícios/ex22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao13/Exercícios/ex23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao13/Exercícios/ex24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao13/Exercícios/ex25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao13/Exercícios/ex26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao13/Exercícios/ex27.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao13/Exercícios/ex28.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao13/Exercícios/ex29.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao13/Exercícios/ex3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao13/Exercícios/ex4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao13/Exercícios/ex5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao13/Exercícios/ex6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao13/Exercícios/ex7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao13/Exercícios/ex8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao13/Exercícios/ex9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao13/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao13/block_with.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao13/escrever_em_arquivos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao13/leitura_de_arquivos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao13/modos_abertura_arquivo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao13/outro.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao13/seek_e_cursors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao13/sistema_de_arquivos_manipulacao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao13/sistema_de_arquivos_navegacao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao13/stringio.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao13/texto.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao14/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao14/criando_loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao14/entendendo_iterators_iterables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao14/geradores.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao14/iterador_customizado.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao14/teste_memoria.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao15/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao15/decoradores.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao15/decoradores_assinatura.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao15/forcando_tipos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao15/funcoes_maior_grandeza.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao15/preservando_metadata.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao16/Exercícios/ex1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao16/Exercícios/ex2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao16/Exercícios/ex3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao16/Exercícios/ex4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao16/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao16/abstracao_encapsulamento.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao16/atributos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao16/classes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao16/metodos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao16/objetos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao16/poo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao17/Exercícios/Parte 1/Exercícios Seção 17 - Parte 1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao17/Exercícios/Parte 1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao17/Exercícios/Parte 1/ex1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao17/Exercícios/Parte 1/ex10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao17/Exercícios/Parte 1/ex11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao17/Exercícios/Parte 1/ex12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao17/Exercícios/Parte 1/ex13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao17/Exercícios/Parte 1/ex14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao17/Exercícios/Parte 1/ex15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao17/Exercícios/Parte 1/ex16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao17/Exercícios/Parte 1/ex17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao17/Exercícios/Parte 1/ex18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao17/Exercícios/Parte 1/ex19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao17/Exercícios/Parte 1/ex2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao17/Exercícios/Parte 1/ex20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao17/Exercícios/Parte 1/ex21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao17/Exercícios/Parte 1/ex22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao17/Exercícios/Parte 1/ex23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao17/Exercícios/Parte 1/ex24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao17/Exercícios/Parte 1/ex25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao17/Exercícios/Parte 1/ex26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao17/Exercícios/Parte 1/ex27.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao17/Exercícios/Parte 1/ex28.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao17/Exercícios/Parte 1/ex29.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao17/Exercícios/Parte 1/ex3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao17/Exercícios/Parte 1/ex30.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao17/Exercícios/Parte 1/ex31.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao17/Exercícios/Parte 1/ex4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao17/Exercícios/Parte 1/ex5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao17/Exercícios/Parte 1/ex6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao17/Exercícios/Parte 1/ex7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao17/Exercícios/Parte 1/ex8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao17/Exercícios/Parte 1/ex9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao17/Exercícios/Parte 2/Exercícios Seção 17 - Parte 2.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao17/Exercícios/Parte 2/ex1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao17/Exercícios/Parte 3/Exercícios Seção 17 - Parte 3.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao17/Exercícios/Parte 3/ex1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao17/Exercícios/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao17/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao17/heranca.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao17/heranca_multipla.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao17/metodos_magicos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao17/mro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao17/polimorfismo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao17/propriedades.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao17/super.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao18/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao18/conhecendo_pickle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao18/escrevendo_csv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao18/json_pickle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao18/lendo_csv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao18/lutadores.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao19/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao19/deltas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao19/manipulando_data_hora.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao19/metodos_data_hora.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao20/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao20/antes_apos_hooks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao20/assertions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao20/atividades.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao20/doctests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao20/intro_unittest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao20/outros_tipos_assertions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao20/por_que_testar_codigo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao20/robo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao20/robo_testes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao20/testes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao22/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao22/multi_processing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao22/multi_thread.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao22/single_thread.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao23/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao23/aula02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao23/aula03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao23/aula04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao23/aula05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao23/aula06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao23/aula08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao23/jogo_cartas_v1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao23/jogo_cartas_v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao23/jogo_cartas_v2_typed.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao23/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/Exercícios Seção 4.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex27.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex28.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex29.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex30.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex31.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex32.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex33.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex34.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex35.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex36.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex37.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex38.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex39.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex40.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex41.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex42.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex43.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex44.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex45.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex46.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex47.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex48.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex49.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex50.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex51.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex52.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex53.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao4/Exercícios/ex9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao5/Exercícios/Exercícios Seção 5.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao5/Exercícios/ex1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao5/Exercícios/ex10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao5/Exercícios/ex11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao5/Exercícios/ex12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao5/Exercícios/ex13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao5/Exercícios/ex14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao5/Exercícios/ex15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao5/Exercícios/ex16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao5/Exercícios/ex17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao5/Exercícios/ex18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao5/Exercícios/ex19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao5/Exercícios/ex2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao5/Exercícios/ex20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao5/Exercícios/ex21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao5/Exercícios/ex22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao5/Exercícios/ex23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao5/Exercícios/ex24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao5/Exercícios/ex25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao5/Exercícios/ex26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao5/Exercícios/ex27.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao5/Exercícios/ex28.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao5/Exercícios/ex29.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao5/Exercícios/ex3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao5/Exercícios/ex30.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao5/Exercícios/ex31.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao5/Exercícios/ex32.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao5/Exercícios/ex33.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao5/Exercícios/ex34.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao5/Exercícios/ex35.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao5/Exercícios/ex36.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao5/Exercícios/ex37.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao5/Exercícios/ex38.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao5/Exercícios/ex39.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao5/Exercícios/ex4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao5/Exercícios/ex40.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao5/Exercícios/ex41.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao5/Exercícios/ex5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao5/Exercícios/ex6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao5/Exercícios/ex7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao5/Exercícios/ex8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao5/Exercícios/ex9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/Exercícios Seção 6.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex27.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex28.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex29.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex30.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex31.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex32.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex33.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex34.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex35.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex36.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex37.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex38.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex39.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex40.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex41.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex42.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex43.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex44.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex45.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex46.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex47.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex48.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex49.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex50.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex51.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex52.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex53.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex54.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex55.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex56.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex57.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex58.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex59.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex60.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex61.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex62.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao6/Exercícios/ex9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Exercícios Seção 7 - Parte 1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Exercícios Seção 7 - Parte 2.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 1/ex1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 1/ex10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 1/ex11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 1/ex12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 1/ex13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 1/ex14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 1/ex15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 1/ex16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 1/ex17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 1/ex18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 1/ex19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 1/ex2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 1/ex20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 1/ex21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 1/ex22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 1/ex23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 1/ex24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 1/ex25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 1/ex26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 1/ex27.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 1/ex28.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 1/ex29.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 1/ex3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 1/ex30.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 1/ex31.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 1/ex32.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 1/ex33.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 1/ex34.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 1/ex35.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 1/ex36.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 1/ex37.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 1/ex38.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 1/ex39.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 1/ex4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 1/ex5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 1/ex6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 1/ex7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 1/ex8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 1/ex9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 2/ex1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 2/ex10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 2/ex11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 2/ex12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 2/ex13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 2/ex14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 2/ex15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 2/ex16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 2/ex17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 2/ex18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 2/ex19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 2/ex2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 2/ex20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 2/ex21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 2/ex22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 2/ex23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 2/ex24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 2/ex25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 2/ex3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 2/ex4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 2/ex5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 2/ex6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 2/ex7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 2/ex8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/Parte 2/ex9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao7/Exercícios/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/Exercícios Seção 8.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex27.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex28.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex29.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex30.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex31.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex32.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex33.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex34.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex35.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex36.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex37.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex38.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex39.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex40.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex41.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex42.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex43.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex44.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex45.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex46.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex47.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex48.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex49.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex50.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex51.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex52.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex53.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex54.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex55.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex56.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex57.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex58.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex59.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex60.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex61.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex62.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex63.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex64.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex65.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex66.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex67.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex68.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex69.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex70.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex71.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex72.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex73.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Secao8/Exercícios/ex9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao24-Python3.8/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao24-Python3.8/argumentos_somente_posicionais.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao24-Python3.8/debugger_fstring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao24-Python3.8/mat_e_est.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao24-Python3.8/novos_metadados.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao24-Python3.8/operador_walrus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao24-Python3.8/optimizacoes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao24-Python3.8/sintaxes_perigosas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao24-Python3.8/tipos_de_dados_mais_precisos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao25-GamePy-Python38/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao25-GamePy-Python38/game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao25-GamePy-Python38/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao25-GamePy-Python38/models/calcular.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao25-GamePy-Python38/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao26-MercadoPy-Python38/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao26-MercadoPy-Python38/mercado.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao26-MercadoPy-Python38/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao26-MercadoPy-Python38/models/cliente.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao26-MercadoPy-Python38/models/conta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao26-MercadoPy-Python38/models/produto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao26-MercadoPy-Python38/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao26-MercadoPy-Python38/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao26-MercadoPy-Python38/utils/helper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao27-BancoPy-Python38/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao27-BancoPy-Python38/banco.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao27-BancoPy-Python38/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao27-BancoPy-Python38/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao27-BancoPy-Python38/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Secao27-BancoPy-Python38/utils/helper.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/guppe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/guppe.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Secao6/loop_while.py" beforeDir="false" afterPath="$PROJECT_DIR$/Secao6/loop_while.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Secao4/escopo_variaveis.py" beforeDir="false" afterPath="$PROJECT_DIR$/Secao4/escopo_variaveis.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -482,20 +54,28 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1PTVuv8gOISIR8G69XoO3evMrpc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Secao23" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -513,8 +93,8 @@
       <recent name="$PROJECT_DIR$/Secao18" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.jogo_cartas_v2_typed">
-    <configuration name="aula08" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.banco">
+    <configuration name="banco" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -522,11 +102,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Secao23" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Secao27-BancoPy-Python38" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Secao23/aula08.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Secao27-BancoPy-Python38/banco.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -535,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="jogo_cartas_v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -543,11 +123,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Secao23" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Secao25-GamePy-Python38" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Secao23/jogo_cartas_v1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Secao25-GamePy-Python38/game.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -556,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="jogo_cartas_v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="mercado" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -564,11 +144,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Secao23" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Secao26-MercadoPy-Python38" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Secao23/jogo_cartas_v2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Secao26-MercadoPy-Python38/mercado.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -577,7 +157,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="jogo_cartas_v2_typed" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="teste (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -585,11 +165,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Secao23" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Secao25-GamePy-Python38" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Secao23/jogo_cartas_v2_typed.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Secao25-GamePy-Python38/teste.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -598,7 +178,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="teste (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="guppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -606,11 +186,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Secao23" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Secao26-MercadoPy-Python38" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Secao23/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Secao26-MercadoPy-Python38/teste.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -621,11 +201,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.jogo_cartas_v2_typed" />
-        <item itemvalue="Python.jogo_cartas_v2" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.jogo_cartas_v1" />
-        <item itemvalue="Python.aula08" />
+        <item itemvalue="Python.banco" />
+        <item itemvalue="Python.mercado" />
+        <item itemvalue="Python.teste (2)" />
+        <item itemvalue="Python.game" />
+        <item itemvalue="Python.teste (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -641,6 +221,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -663,39 +244,17 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="WindowStateProjectService">
-    <state x="1774" y="177" width="546" height="386" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602773085947">
-      <screen x="0" y="0" width="2732" height="741" />
-    </state>
-    <state x="1774" y="177" width="546" height="386" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2732.741@0.0.2732.741" timestamp="1602773085947" />
-    <state width="1345" height="173" key="GridCell.Tab.0.bottom" timestamp="1609774251245">
-      <screen x="0" y="0" width="1366" height="741" />
-    </state>
-    <state width="1345" height="173" key="GridCell.Tab.0.bottom/0.0.1366.741@0.0.1366.741" timestamp="1609774251245" />
-    <state width="1345" height="142" key="GridCell.Tab.0.bottom/0.0.2732.741@0.0.2732.741" timestamp="1603728019230" />
-    <state width="1345" height="173" key="GridCell.Tab.0.bottom/1366.0.1366.768/0.0.1366.741@1366.0.1366.768" timestamp="1608297875650" />
-    <state width="1345" height="173" key="GridCell.Tab.0.center" timestamp="1609774251244">
-      <screen x="0" y="0" width="1366" height="741" />
-    </state>
-    <state width="1345" height="173" key="GridCell.Tab.0.center/0.0.1366.741@0.0.1366.741" timestamp="1609774251244" />
-    <state width="1345" height="142" key="GridCell.Tab.0.center/0.0.2732.741@0.0.2732.741" timestamp="1603728019230" />
-    <state width="1345" height="173" key="GridCell.Tab.0.center/1366.0.1366.768/0.0.1366.741@1366.0.1366.768" timestamp="1608297875650" />
-    <state width="1345" height="173" key="GridCell.Tab.0.left" timestamp="1609774251244">
-      <screen x="0" y="0" width="1366" height="741" />
-    </state>
-    <state width="1345" height="173" key="GridCell.Tab.0.left/0.0.1366.741@0.0.1366.741" timestamp="1609774251244" />
-    <state width="1345" height="142" key="GridCell.Tab.0.left/0.0.2732.741@0.0.2732.741" timestamp="1603728019230" />
-    <state width="1345" height="173" key="GridCell.Tab.0.left/1366.0.1366.768/0.0.1366.741@1366.0.1366.768" timestamp="1608297875650" />
-    <state width="1345" height="173" key="GridCell.Tab.0.right" timestamp="1609774251244">
-      <screen x="0" y="0" width="1366" height="741" />
-    </state>
-    <state width="1345" height="173" key="GridCell.Tab.0.right/0.0.1366.741@0.0.1366.741" timestamp="1609774251244" />
-    <state width="1345" height="142" key="GridCell.Tab.0.right/0.0.2732.741@0.0.2732.741" timestamp="1603728019230" />
-    <state width="1345" height="173" key="GridCell.Tab.0.right/1366.0.1366.768/0.0.1366.741@1366.0.1366.768" timestamp="1608297875650" />
-    <state x="1712" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1608214419209">
-      <screen x="1366" y="0" width="1366" height="768" />
-    </state>
-    <state x="1712" y="89" width="672" height="678" key="search.everywhere.popup/1366.0.1366.768/0.0.1366.741@1366.0.1366.768" timestamp="1608214419209" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
