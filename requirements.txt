@@ -12,4 +12,4 @@ passlib==1.7.2
 python-pdf==0.37
 typed-ast==1.4.1
 typing-extensions==3.7.4.3
-zipp==3.3.1
+zipp==3.19.1
